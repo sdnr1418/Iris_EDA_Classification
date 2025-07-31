@@ -33,14 +33,23 @@ This project explores the **Iris flower dataset** using **Exploratory Data Analy
 
 ## 🖼️ Visualizations
 
-### Violin Plot
-![Violin Plot](Iris Pictures/Violin Plot.png)
+### 1. Iris Flower Sample Image
+![Iris Flower Sample](images/Iris_Flowers_Picture.png)
 
-### Pairplot
-![Pairplot](images/pairplot.png)
+### 2. Heatmap of Correlations
+![Heatmap](images/HeatMap.png)
 
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+### 3. Pair Plot of Features
+![Pair Plot](images/Pair_Plot.png)
+
+### 4. Box Plots
+![Box Plots](images/box_plot.png)
+
+### 5. Violin Plots
+![Violin Plots](images/Voilin_Plot.png)
+
+### 6. Logistic Regression Result
+![Logistic Result](images/Logistic_Result.png)
 
 ---
 
