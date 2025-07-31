@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A deep dive into one of the most iconic datasets in machine learning!  
 This project explores the **Iris flower dataset** using **Exploratory Data Analysis (EDA)** and builds a **Logistic Regression classifier**, culminating in an elegant **decision boundary** visualization.
