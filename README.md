@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 
+### Iris Flower Sample Image
+![Iris Flower Sample](images/Iris_Flowers_Picture.png)
+
 A deep dive into one of the most iconic datasets in machine learning!  
 This project explores the **Iris flower dataset** using **Exploratory Data Analysis (EDA)** and builds a **Logistic Regression classifier**, culminating in an elegant **decision boundary** visualization.
 
@@ -32,22 +35,20 @@ This project explores the **Iris flower dataset** using **Exploratory Data Analy
 
 ## 🖼️ Visualizations
 
-### 1. Iris Flower Sample Image
-![Iris Flower Sample](images/Iris_Flowers_Picture.png)
 
-### 2. Heatmap of Correlations
+### 1. Heatmap of Correlations
 ![Heatmap](images/HeatMap.png)
 
-### 3. Pair Plot of Features
+### 2. Pair Plot of Features
 ![Pair Plot](images/Pair_Plot.png)
 
-### 4. Box Plots
+### 3. Box Plots
 ![Box Plots](images/box_plot.png)
 
-### 5. Violin Plots
+### 4. Violin Plots
 ![Violin Plots](images/Voilin_Plot.png)
 
-### 6. Logistic Regression Result
+### 5. Logistic Regression Result
 ![Logistic Result](images/Logistic_Result.png)
 
 ---
