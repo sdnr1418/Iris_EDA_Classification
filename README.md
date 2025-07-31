@@ -34,7 +34,7 @@ This project explores the **Iris flower dataset** using **Exploratory Data Analy
 ## 🖼️ Visualizations
 
 ### Violin Plot
-![Violin Plot](images/violin_plot.png)
+![Violin Plot](Iris Pictures/Violin Plot.png)
 
 ### Pairplot
 ![Pairplot](images/pairplot.png)
