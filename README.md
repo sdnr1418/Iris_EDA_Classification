@@ -23,12 +23,12 @@ This project explores the **Iris flower dataset** using **Exploratory Data Analy
 
 ## 🔍 Insights & Observations
 
-✅ *Setosa* flowers are **clearly linearly separable** from the rest, especially when plotting:
+ *Setosa* flowers are **clearly linearly separable** from the rest, especially when plotting:
 - **PetalLength, PetalWidth**: A striking distinction appears!
 - **SepalWidth** shows outlier and less discriminative power.
 - **Violin and boxplots** reveal Setosa's tight feature distribution.
 
-📉 Logistic regression performed **exceptionally well** in separating Setosa due to its linear separability.
+Logistic regression performed **exceptionally well** in separating Setosa due to its linear separability.
 
 ---
 
